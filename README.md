@@ -3,7 +3,7 @@ Hi 👋 My name is Bobby Rinaldo
 
 Frontend Developer
 ------------------  
-I have an interest in programming, especially web3.js development. With the experience I have gained over the past few years, I will be able to bring new ideas and technologies to the table while continuing to grow my skills.  
+I have an interest in programming, especially web development. With the experience I have gained over the past few years, I will be able to bring new ideas and technologies to the table while continuing to grow my skills.  
 * 🌍  I'm based in Bandung, West Java, Indonesia 
 * ✉️  You can contact me at [bobbyrinaldo@live.com](mailto:bobbyrinaldo@live.com) 
 * 🧠  I'm learning Typescript

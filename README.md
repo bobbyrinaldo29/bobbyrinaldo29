@@ -6,7 +6,7 @@ Frontend Developer
 I have an interest in programming, especially web development. With the experience I have gained over the past few years, I will be able to bring new ideas and technologies to the table while continuing to grow my skills.  
 * 🌍  I'm based in Bandung, West Java, Indonesia 
 * ✉️  You can contact me at [bobbyrinaldo@live.com](mailto:bobbyrinaldo@live.com) 
-* 🧠  I'm learning React Native
+* 🧠  I'm learning Javascript
 
 ### Skills
 

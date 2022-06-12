@@ -1,7 +1,7 @@
 Hi 👋 My name is Bobby Rinaldo
 ==============================
 
-Frontend Developer
+Frontend Web Developer
 ------------------  
 I have an interest in programming, especially web development. With the experience I have gained over the past few years, I will be able to bring new ideas and technologies to the table while continuing to grow my skills.  
 * 🌍  I'm based in Bandung, West Java, Indonesia 

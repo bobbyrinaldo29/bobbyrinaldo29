@@ -6,10 +6,13 @@ Web Developer
 
 I have an interest in programming, especially web development. With the experience I have gained over the past few years, I will be able to bring new ideas and technologies while continuing to grow my skills.
 
-*   🌍  I'm based in Bandung, West Java, Indonesia
-*   🖥️  See my portfolio at [Pinterest](http://id.pinterest.com/bobbyrinaldo/)
-*   ✉️  You can contact me at [bobbyrinaldo@live.com](mailto:bobbyrinaldo@live.com)
-*   🧠  I'm learning Javascript### Skills 
+* 🌍  I'm based in Bandung, West Java, Indonesia
+* 🖥️  See my portfolio at [Pinterest](http://id.pinterest.com/bobbyrinaldo/)
+* ✉️  You can contact me at [bobbyrinaldo@live.com](mailto:bobbyrinaldo@live.com)
+* 🧠  I'm learning Javascript
+
+### Skills
+
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>
@@ -35,19 +38,14 @@ I have an interest in programming, especially web development. With the experien
 <a href="https://ethereum.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ethereum-colored.svg" width="36" height="36" alt="Ethereum" /></a>
 <a href="https://metamask.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/metamask-colored.svg" width="36" height="36" alt="MetaMask" /></a>
 </p>
-                    
-                  ### Socials
-                  
-                  
-                <p align="left">
-                          
-                      <a href="https://www.behance.com/bobbyrsukmad" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/behance.svg" width="32" height="32" /></a>
-                          
-                      <a href="https://www.github.com/bobbyrinaldo29" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
-                          
-                      <a href="https://www.linkedin.com/in/bobby-rinaldo-sukma-dewa-731597126" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
-                          
-                      <a href="https://www.stackoverflow.com/users/14604305/sukma-dewa" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a>
-                          
-                      <a href="https://www.twitter.com/bobby_sukma_d" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>### Badges<b>My GitHub Stats</b><a
-                      href="http://www.github.com/bobbyrinaldo29"><img src="https://github-readme-stats.vercel.app/api?username=bobbyrinaldo29&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="bobbyrinaldo29's GitHub stats" /></a><a href="https://github.com/bobbyrinaldo29" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bobbyrinaldo29&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+### Socials
+
+<p align="left"> <a href="https://www.behance.com/bobbyrsukmad" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/behance.svg" width="32" height="32" /></a> <a href="https://www.github.com/bobbyrinaldo29" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/bobby-rinaldo-sukma-dewa-731597126" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/14604305/sukma-dewa" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/bobby_sukma_d" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+### Badges
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/bobbyrinaldo29"><img src="https://github-readme-stats.vercel.app/api?username=bobbyrinaldo29&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="bobbyrinaldo29's GitHub stats" /></a>
+
+<a href="https://github.com/bobbyrinaldo29" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bobbyrinaldo29&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>

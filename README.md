@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Rishav, a full-time full-stack freelance developer 👨‍💻 working remotely since 2013 🚀</div>  
+### <div align="center">I'm Bobby Rinaldo, a full-time Web developer 🚀</div>  
   
 
 - I have an interest in programming, especially web development. With the experience I have gained over the past few years, I will be able to bring new ideas and technologies while continuing to grow my skills.  

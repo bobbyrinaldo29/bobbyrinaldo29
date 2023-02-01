@@ -42,6 +42,7 @@ I have an interest in programming, especially web development. With the experien
 ### Socials
 
 <p align="left"> <a href="https://www.behance.com/bobbyrsukmad" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/behance.svg" width="32" height="32" /></a> <a href="https://www.github.com/bobbyrinaldo29" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/bobby-rinaldo-sukma-dewa-731597126" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/14604305/sukma-dewa" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/bobby_sukma_d" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+
 ### Badges
 
 <b>My GitHub Stats</b>
